@@ -5,7 +5,3 @@ tasks:
 ports:
   - port: 1313
     onOpen: open-preview
-
-vscode:
-  extensions:
-    - auchenberg.vscode-browser-preview
